@@ -14,7 +14,7 @@ Click: Change the direction that the roses will leave the farm
 
 ## Objectives
 
-    Try to keep raising enough roses to keep the hp indicator at the bottom green. Every time an animal eats a rose, this hp goes down in addition to the constant decreases it has per second. It will first flash green, meaning good health for the farm, yellow meaning a little danger, and red meaning the farm could run out of hp any second. The key to doing this is to 1) keep the animals away from the roses by sweeping and/or changing up the direction they leave and 2) planting roses and staying a distance away from them so they grow faster.
+   Try to keep raising enough roses to keep the hp indicator at the bottom green. Every time an animal eats a rose, this hp goes down in addition to the constant decreases it has per second. It will first flash green, meaning good health for the farm, yellow meaning a little danger, and red meaning the farm could run out of hp any second. The key to doing this is to 1) keep the animals away from the roses by sweeping and/or changing up the direction they leave and 2) planting roses and staying a distance away from them so they grow faster.
 
 Hope you enjoy this game!
 
